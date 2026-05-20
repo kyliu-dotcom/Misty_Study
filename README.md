@@ -1,5 +1,5 @@
 Intro to HRI Class Project
-
+Developed with Christopher Jin and Neveah Camby Hagins as part of the final project for the Introduction to Human Robot Interaction course at CMU
 Compiling and Running Code:
 1. Connect to Misty through WiFi
 2. Run on VSC
