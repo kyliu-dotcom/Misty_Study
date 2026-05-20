@@ -58,7 +58,6 @@ When prompted, enter your Misty robot's IP address
 
 - [Misty Robotics Documentation](https://docs.mistyrobotics.com/)
 - [Misty Skills Documentation](https://docs.mistyrobotics.com/skills/overview/)
-- Original Repository: [cjin3/Misty-Roomba](https://github.com/cjin3/Misty-Roomba)
 
 ---
 
