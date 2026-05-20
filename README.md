@@ -3,8 +3,6 @@
 ## Overview
 A Human-Robot Interaction (HRI) project developed as the final project for the **Introduction to Human Robot Interaction** course at Carnegie Mellon University. This project involves programming the Misty robot to perform interactive tasks and behaviors.
 
-**Developed by:** Kevin Liu, Christopher Jin, and Neveah Camby Hagins
-
 ---
 
 ## Prerequisites
